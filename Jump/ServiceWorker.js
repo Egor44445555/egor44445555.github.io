@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Jump-1.0";
 const contentToCache = [
     "Build/WebBuild.loader.js",
-    "Build/WebBuild.framework.js.gz",
-    "Build/WebBuild.data.gz",
-    "Build/WebBuild.wasm.gz",
+    "Build/WebBuild.framework.js",
+    "Build/WebBuild.data",
+    "Build/WebBuild.wasm",
     "TemplateData/style.css"
 
 ];
