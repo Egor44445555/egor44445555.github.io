@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224791948025",
+    "project_id": "savagedefenders-8636c",
+    "storage_bucket": "savagedefenders-8636c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224791948025:android:ba2bc1774d7048124c9028",
+        "android_client_info": {
+          "package_name": "com.savagedefenders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwwLOcAlJwrcAd5FEJVSNmrNtEusz6FkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
